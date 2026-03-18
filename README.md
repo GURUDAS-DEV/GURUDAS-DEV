@@ -1,18 +1,15 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=GURUDAS%20BHARDWAJ&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20SaaS%20Craftsman&descAlignY=58&descSize=16" width="100%"/>
 
-# `< Gurudas Bhardwaj />`
+</div>
 
-### ⚡ Full-Stack Engineer · .NET Architect · AI Systems Builder · SaaS Craftsman ⚡
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+systems+that+scale+%F0%9F%9A%80;From+Backend+Architecture+to+AI+Integration+%F0%9F%A4%96;Turning+ideas+into+production-ready+reality+%F0%9F%94%A5;Node.js+%7C+.NET+%7C+Next.js+%7C+Docker+%7C+Redis" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sand-seven-50.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurudas-bhardwaj-b900a5314/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURUDAS-DEV)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whynott_.gurudas)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00d9ff)](https://portfolio-sand-seven-50.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/gurudas-bhardwaj-b900a5314/)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/GURUDAS-DEV)
+[![LeetCode](https://img.shields.io/badge/LeetCode_350+-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com)
 
 <img src="https://komarev.com/ghpvc/?username=GURUDAS-DEV&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 
@@ -20,177 +17,168 @@
 
 ---
 
+<!-- TERMINAL GAME SECTION -->
+
 <div align="center">
 
-## 🧠 Who Am I?
+## 🕹️ PLAY: Crack My Stack
+
+> **A mini hacking terminal game — can you identify all my technologies from the clues?**
+> *(Click the image below or visit the live version)*
 
 </div>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  > SYSTEM INFILTRATION TERMINAL v2.6.0                          ║
+║  > TARGET: gurudas@dev-machine                                  ║
+║  > STATUS: LOCKED — 8 TECHNOLOGIES HIDDEN IN THE STACK         ║
+║                                                                  ║
+║  CLUE_01: "I scale queues, handle workers, sit between          ║
+║            services — I'm neither a DB nor a framework."        ║
+║            [ B _ _ _ M Q ]                                      ║
+║                                                                  ║
+║  CLUE_02: "I turn raw HTML into scraped gold, even              ║
+║            client-side rendered sites bow before me."           ║
+║            [ P _ _ _ w _ _ _ _ _ ]                              ║
+║                                                                  ║
+║  CLUE_03: "I'm the ORM killer. Pure SQL power with              ║
+║            TypeScript safety. Node.js loves me."                ║
+║            [ _ _ _ s _ a ]                                      ║
+║                                                                  ║
+║  CLUE_04: "I'm the bridge between your LLMs and your data.      ║
+║            Retrieval. Augmentation. Generation."                 ║
+║            [ R _ G ]                                            ║
+║                                                                  ║
+║  > Answers scroll down... but real devs already know.  👇       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<details>
+<summary>🔓 DECRYPT ANSWERS</summary>
+
+```
+CLUE_01 → BullMQ       (Job queue for Node.js — powers Nova Bot Studio background workers)
+CLUE_02 → Playwright   (Browser automation for scraping — even SPAs aren't safe)
+CLUE_03 → Prisma       (Next-gen TypeScript ORM)
+CLUE_04 → RAG          (Retrieval-Augmented Generation — powers the AI chatbot knowledge base)
+```
+
+</details>
+
+---
+
+## 🧬 Identity Matrix
 
 ```typescript
-const gurudas: Developer = {
-  name:       "Gurudas Bhardwaj",
-  title:      "Full-Stack Engineer",
-  location:   "Faridabad, Haryana, India 🇮🇳",
-  education:  "BCA @ DAV Centenary College (2024–2027)",
-  
-  philosophy: [
-    "I create systems AS A USER — not just as a developer",
-    "I don't just want things to work — I want to understand WHY they work",
-    "From SaaS applications to AI integrations, I own full product depth",
+const gurudas = {
+  name:        "Gurudas Bhardwaj",
+  location:    "New Delhi → Faridabad, Haryana 🇮🇳",
+  education:   "BCA @ DAV Centenary College (2024–27) · CGPA: 9.18/10",
+  contact:     "gurudaswork9811@gmail.com · +91 9811048031",
+
+  // What I actually do
+  specialties: [
+    "Full-Stack Architecture (React · Next.js · Node.js)",
+    "AI Integration — LLMs, Embeddings, RAG Pipelines",
+    "Real-Time Systems — WebSockets, Socket.io, Redis",
+    "SaaS Platform Design — Auth, Rate Limiting, Workers",
+    "Cloud Deployment — Azure, Docker, Nginx, CI/CD",
   ],
 
-  currentlyBuilding: "Nova Bot Studio — AI-powered multi-platform chatbot SaaS",
-  
-  superPowers: [
-    "Backend Architecture & API Design",
-    "AI Integration & RAG Systems",
-    "Scalable SaaS Foundations",
-    "System Design & Lifecycle Management",
-  ],
+  // Numbers that matter
+  stats: {
+    leetcodeSolved:       350,
+    githubContributions:  396,   // in 2026 alone
+    longestStreak:        "40 days",
+    peakCommitDay:        57,
+    publicRepos:          23,
+  },
 
-  languages:  ["English", "Hindi", "Japanese 🇯🇵"],
-  openTo:     ["Collaboration", "Freelance", "Exciting Opportunities"],
-};
+  // Right now
+  currentMission: "Nova Bot Studio — AI chatbot SaaS for 5 platforms",
+  openTo:         ["Collaboration", "Freelance", "Internships", "Full-time"],
+
+  // Human side
+  languages:  ["English 🇬🇧 (Fluent)", "Hindi 🇮🇳 (Native)", "Japanese 🇯🇵 (Learning)"],
+  philosophy: "I build systems AS A USER. I don't just want things to work — I want to understand WHY.",
+} as const;
 ```
 
 ---
 
-<div align="center">
-
-## 🛠️ Tech Arsenal
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-
-**🎨 Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square)
-
-</td>
-<td align="center" width="200">
-
-**⚙️ Backend**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-</td>
-<td align="center" width="200">
-
-**💾 Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![PGVector](https://img.shields.io/badge/PGVector-316192?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-
-**🚀 Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-</td>
-<td align="center" width="200">
-
-**☁️ DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square)
-
-</td>
-<td align="center" width="200">
-
-**🤖 AI & ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Systems-412991?style=flat-square)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-00A67E?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings-FF6B35?style=flat-square)
-![Prompt Eng.](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square)
-
-</td>
-</tr>
-</table>
-
----
+## ⚡ Strength Map
 
 <div align="center">
 
-## 🚀 Featured Project — Nova Bot Studio
-
-</div>
-
-<div align="center">
-
-```
- ███╗   ██╗ ██████╗ ██╗   ██╗ █████╗     ██████╗  ██████╗ ████████╗
- ████╗  ██║██╔═══██╗██║   ██║██╔══██╗    ██╔══██╗██╔═══██╗╚══██╔══╝
- ██╔██╗ ██║██║   ██║██║   ██║███████║    ██████╔╝██║   ██║   ██║   
- ██║╚██╗██║██║   ██║╚██╗ ██╔╝██╔══██║    ██╔══██╗██║   ██║   ██║   
- ██║ ╚████║╚██████╔╝ ╚████╔╝ ██║  ██║    ██████╔╝╚██████╔╝   ██║   
- ╚═╝  ╚═══╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝   ╚═════╝  ╚═════╝    ╚═╝   
-                         S T U D I O
-```
-
-**🤖 The AI SaaS Platform for Multi-Platform Chatbot Deployment**
-
-> *Deploy intelligent chatbots to WhatsApp, Instagram, Telegram, Discord & your own website — all from one platform.*
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  PLATFORMS SUPPORTED                                        │
-│  📱 WhatsApp  📸 Instagram  ✈️ Telegram  🎮 Discord  🌐 Web │
-├─────────────────────────────────────────────────────────────┤
-│  TECH STACK                                                 │
-│  Next.js · Node.js · TypeScript · Redis · PostgreSQL        │
-│  MongoDB · BullMQ · Rate Limiting · OAuth · Playwright      │
-├─────────────────────────────────────────────────────────────┤
-│  FEATURES                                                   │
-│  ✅ AI-Powered Chatbots    ✅ Rate Limiting                  │
-│  ✅ Background Workers     ✅ OAuth Authentication           │
-│  ✅ Multi-Platform Deploy  ✅ SaaS Architecture              │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURUDAS-DEV/NOVA-BOT-STUDIO)
-[![Watch Demo](https://img.shields.io/badge/Watch_Demo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7407381186077126656/)
+| Domain | Tools & Technologies | Depth |
+|--------|----------------------|-------|
+| **Frontend** | Next.js · React · Tailwind CSS · ShadCN · Redux · Zustand | ████████████ Expert |
+| **Backend** | Node.js · Express · REST APIs · WebSockets · Socket.io | ████████████ Expert |
+| **Databases** | PostgreSQL · MongoDB · Redis · PGVector · SQL Server | ███████████░ Advanced |
+| **AI / LLM** | RAG Pipelines · Embeddings · Prompt Engineering · LangChain | ██████████░░ Advanced |
+| **DevOps** | Docker · Azure · Nginx · CI/CD · GitHub Actions | █████████░░░ Proficient |
+| **Languages** | TypeScript · JavaScript · C# · Python · Java · C++ | ████████████ Expert |
+| **.NET / C#** | ASP.NET Core · MVC · RESTful APIs | ████████░░░░ Proficient |
 
 </div>
 
 ---
 
-<div align="center">
+## 🏆 Achievements & Milestones
 
-## 📊 GitHub Stats & Activity
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   🥇  350+ LeetCode Problems Solved                            │
+│       → Strong DSA foundation: arrays, graphs, DP, trees       │
+│                                                                 │
+│   🌍  Green Hack Bharat Hackathon 2026                         │
+│       → 6,000+ participants · Built BreathClean in 48 hours    │
+│       → Pollution-aware navigation using real-time AQI data    │
+│                                                                 │
+│   📈  396 GitHub Contributions in 2026                         │
+│       → 40-day streak · 57 commits on peak day                 │
+│                                                                 │
+│   🎓  CGPA 9.18 / 10.0                                        │
+│       → DAV Centenary College, Faridabad                       │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-</div>
+---
+
+## 🏗️ System Design Thinking
+
+> *How I approach every build:*
+
+```
+ USER NEED
+     │
+     ▼
+ ┌───────────────────────────────────────────────────┐
+ │  1. DESIGN as a user — feel the pain first        │
+ │  2. ARCHITECT before coding — system diagrams     │
+ │  3. LAYER by layer — Auth → Core → Real-time → AI │
+ │  4. OPTIMIZE with data — Redis, caching, queues   │
+ │  5. DEPLOY with confidence — Docker, CI/CD, Azure │
+ └───────────────────────────────────────────────────┘
+     │
+     ▼
+ PRODUCTION-READY SYSTEM
+```
+
+**Patterns I live by:**
+- 🔐 JWT + OAuth2 authentication with refresh token rotation
+- ⚡ Redis caching → 40% API latency reduction (proven on Nova Bot Studio)
+- 🧵 BullMQ background workers for async operations
+- 🌍 GeoJSON + 2dsphere indexing for spatial queries (BreathClean)
+- 🤖 RAG with vector embeddings for intelligent document Q&A
+- 🔄 WebSocket + Socket.io for 200+ concurrent real-time clients
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -205,44 +193,28 @@ const gurudas: Developer = {
 
 </div>
 
-<div align="center">
-
-```
-📦 23 Public Repos    ⭐ 12 Stars    👥 14 Followers    🔥 396 Contributions in 2026
-📅 Longest Streak: 40 days          📈 Peak Day: 57 commits
-```
-
-</div>
-
 ---
-
-<div align="center">
 
 ## 🎓 Education
 
-</div>
-
 ```
-┌──────────────────────────────────────────────────────────────┐
-│  🏛️  DAV CENTENARY COLLEGE                                   │
-│  📚  Bachelor of Computer Applications (BCA)                 │
-│  📅  2024 – 2027                                             │
-│  📍  Faridabad, Haryana, India                               │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│  🏛️  DAV CENTENARY COLLEGE, FARIDABAD                       │
+│  📚  Bachelor of Computer Applications (BCA)               │
+│  📅  2024 – 2027                                            │
+│  🎯  CGPA: 9.18 / 10.0                                      │
+│  📍  Haryana, India                                         │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<div align="center">
-
-## 🌍 Languages I Speak
-
-</div>
+## 🌍 Human Stack
 
 <div align="center">
 
-| Language | Proficiency |
-|----------|-------------|
+| Language | Level |
+|----------|-------|
 | 🇬🇧 English | ██████████ Fluent |
 | 🇮🇳 Hindi | ██████████ Native |
 | 🇯🇵 Japanese | ████░░░░░░ Learning |
@@ -251,24 +223,42 @@ const gurudas: Developer = {
 
 ---
 
+## 💡 Dev Philosophy
+
 <div align="center">
 
-## 💡 My Dev Philosophy
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "I don't just want things to work —                   ║
+║    I want to understand WHY they work."                 ║
+║                                                          ║
+║   "I build systems AS A USER, not just as a dev."       ║
+║                                                          ║
+║   "Ship production-ready. Optimize with data."          ║
+║                                                          ║
+║   "350+ problems later — I don't fear hard bugs."       ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
+---
+
+## 📬 Let's Build Something
+
 <div align="center">
 
-```
- ╔══════════════════════════════════════════════════════════╗
- ║  "I don't just want to make things work —               ║
- ║   I want to understand WHY they work."                  ║
- ║                                                          ║
- ║  "I create systems as a USER, not just as a developer." ║
- ║                                                          ║
- ║  "Build production-ready. Ship with confidence."        ║
- ╚══════════════════════════════════════════════════════════╝
-```
+> *Got an idea, a problem, or a system that needs to scale?*
+> **I'm one message away.**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0a0a0a?style=for-the-badge)](https://portfolio-sand-seven-50.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/gurudas-bhardwaj-b900a5314/)
+[![GitHub](https://img.shields.io/badge/Follow-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/GURUDAS-DEV)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gurudaswork9811@gmail.com)
 
 </div>
 
@@ -276,26 +266,6 @@ const gurudas: Developer = {
 
 <div align="center">
 
-## 📬 Let's Build Something Amazing Together
-
-</div>
-
-<div align="center">
-
-> *Got an exciting project? A wild idea? An engineering problem that needs solving?*
-> **Let's connect and build.**
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge)](https://portfolio-sand-seven-50.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurudas-bhardwaj-b900a5314/)
-[![GitHub Follow](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURUDAS-DEV)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whynott_.gurudas)
-
-<br/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=Built+with+intentionality+%E2%80%94+not+just+code.&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
