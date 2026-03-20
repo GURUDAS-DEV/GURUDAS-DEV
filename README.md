@@ -116,9 +116,9 @@ const gurudas = {
 | **Frontend** | Next.js · React · Tailwind CSS · ShadCN · Redux · Zustand | ████████████ Expert |
 | **Backend** | Node.js · Express · REST APIs · WebSockets · Socket.io | ████████████ Expert |
 | **Databases** | PostgreSQL · MongoDB · Redis · PGVector · SQL Server | ███████████░ Advanced |
-| **AI / LLM** | RAG Pipelines · Embeddings · Prompt Engineering · LangChain | ██████████░░ Advanced |
+| **AI / LLM** | RAG Pipelines · Embeddings · Prompt Engineering | ██████████░░ Advanced |
 | **DevOps** | Docker · Azure · Nginx · CI/CD · GitHub Actions | █████████░░░ Proficient |
-| **Languages** | TypeScript · JavaScript · C# · Python · Java · C++ | ████████████ Expert |
+| **Languages** | TypeScript · JavaScript · C# | ████████████ Expert |
 | **.NET / C#** | ASP.NET Core · MVC · RESTful APIs | ████████░░░░ Proficient |
 
 </div>
