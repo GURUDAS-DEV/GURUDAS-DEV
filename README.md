@@ -1,264 +1,244 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=GURUDAS%20BHARDWAJ&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20SaaS%20Craftsman&descAlignY=58&descSize=16" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00d9ff)](https://portfolio-sand-seven-50.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/gurudas-bhardwaj-b900a5314/)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/GURUDAS-DEV)
-[![LeetCode](https://img.shields.io/badge/LeetCode_350+-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com)
-
-<img src="https://komarev.com/ghpvc/?username=GURUDAS-DEV&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=GURUDAS%20OS%20v4.0&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20AI%20Systems%20Builder%20•%20SaaS%20Architect&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
 ---
 
-<!-- TERMINAL GAME SECTION -->
-
 <div align="center">
 
-## 🕹️ PLAY: Crack My Stack
+# ⚡ BOOTING SYSTEM...
 
-> **A mini hacking terminal game — can you identify all my technologies from the clues?**
-> *(Click the image below or visit the live version)*
+```
+> Initializing GurudasOS...
+> Loading modules: Backend • AI • Real-time • Systems
+> Status: READY
+```
 
 </div>
 
+---
+
+## 🎮 GAME 01: STACK INVADERS
+
+> **Mission:** Eliminate bad tech. Protect scalable systems.
+
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  > SYSTEM INFILTRATION TERMINAL v2.6.0                          ║
-║  > TARGET: gurudas@dev-machine                                  ║
-║  > STATUS: LOCKED — 8 TECHNOLOGIES HIDDEN IN THE STACK         ║
-║                                                                  ║
-║  CLUE_01: "I scale queues, handle workers, sit between          ║
-║            services — I'm neither a DB nor a framework."        ║
-║            [ B _ _ _ M Q ]                                      ║
-║                                                                  ║
-║  CLUE_02: "I turn raw HTML into scraped gold, even              ║
-║            client-side rendered sites bow before me."           ║
-║            [ P _ _ _ w _ _ _ _ _ ]                              ║
-║                                                                  ║
-║  CLUE_03: "I'm the ORM killer. Pure SQL power with              ║
-║            TypeScript safety. Node.js loves me."                ║
-║            [ _ _ _ s _ a ]                                      ║
-║                                                                  ║
-║  CLUE_04: "I'm the bridge between your LLMs and your data.      ║
-║            Retrieval. Augmentation. Generation."                 ║
-║            [ R _ G ]                                            ║
-║                                                                  ║
-║  > Answers scroll down... but real devs already know.  👇       ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║            🚀 STACK INVADERS                 ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║   ENEMIES DETECTED:                          ║
+║                                              ║
+║   ❌ jQuery Legacy        🔫 SHOOT           ║
+║   ❌ PHP Monolith         🔫 SHOOT           ║
+║   ❌ No Caching System    🔫 SHOOT           ║
+║                                              ║
+║   ALLIES:                                    ║
+║                                              ║
+║   ✅ Redis Cache         🛡️ DEFEND           ║
+║   ✅ WebSockets          🛡️ DEFEND           ║
+║   ✅ RAG Pipeline        🛡️ DEFEND           ║
+║                                              ║
+║   RESULT: ?                                  ║
+╚══════════════════════════════════════════════╝
 ```
 
 <details>
-<summary>🔓 DECRYPT ANSWERS</summary>
+<summary>🎯 Reveal Result</summary>
 
-```
-CLUE_01 → BullMQ       (Job queue for Node.js — powers Nova Bot Studio background workers)
-CLUE_02 → Playwright   (Browser automation for scraping — even SPAs aren't safe)
-CLUE_03 → Prisma       (Next-gen TypeScript ORM)
-CLUE_04 → RAG          (Retrieval-Augmented Generation — powers the AI chatbot knowledge base)
-```
+* Shot Redis → ❌ System failure
+* Saved PHP Monolith → ❌ Scalability dead
+* Protected RAG → ✅ Smart engineer detected
 
 </details>
 
 ---
 
-## 🧬 Identity Matrix
+## 🕹️ GAME 02: TERMINAL HACK
 
-```typescript
-const gurudas = {
-  name:        "Gurudas Bhardwaj",
-  location:    "New Delhi → Faridabad, Haryana 🇮🇳",
-  education:   "BCA @ DAV Centenary College (2024–27) · CGPA: 9.18/10",
-  contact:     "gurudaswork9811@gmail.com · +91 9811048031",
+> Crack the stack. Only real devs get 4/4.
 
-  // What I actually do
-  specialties: [
-    "Full-Stack Architecture (React · Next.js · Node.js)",
-    "AI Integration — LLMs, Embeddings, RAG Pipelines",
-    "Real-Time Systems — WebSockets, Socket.io, Redis",
-    "SaaS Platform Design — Auth, Rate Limiting, Workers",
-    "Cloud Deployment — Azure, Docker, Nginx, CI/CD",
-  ],
+```
+> ACCESSING SECURE TERMINAL...
 
-  // Numbers that matter
-  stats: {
-    leetcodeSolved:       350,
-    githubContributions:  396,   // in 2026 alone
-    longestStreak:        "40 days",
-    peakCommitDay:        57,
-    publicRepos:          23,
-  },
+CLUE_01: Async job handler king  
+[ B _ _ _ M Q ]
 
-  // Right now
-  currentMission: "Nova Bot Studio — AI chatbot SaaS for 5 platforms",
-  openTo:         ["Collaboration", "Freelance", "Internships", "Full-time"],
+CLUE_02: Breaks JS-heavy websites  
+[ P _ _ _ w _ _ _ _ _ ]
 
-  // Human side
-  languages:  ["English 🇬🇧 (Fluent)", "Hindi 🇮🇳 (Native)", "Japanese 🇯🇵 (Learning)"],
-  philosophy: "I build systems AS A USER. I don't just want things to work — I want to understand WHY.",
-} as const;
+CLUE_03: Type-safe DB layer  
+[ _ _ _ s _ a ]
+
+CLUE_04: AI + Data pipeline  
+[ R _ G ]
+```
+
+<details>
+<summary>🔓 Decrypt Answers</summary>
+
+BullMQ
+Playwright
+Prisma
+RAG
+
+</details>
+
+---
+
+## 🧬 SYSTEM PROFILE
+
+```yaml
+Name: Gurudas Bhardwaj
+Role: Full-Stack Engineer + AI Systems Builder
+Location: India 🇮🇳
+
+Current Mission:
+  - Nova Bot Studio (AI SaaS Platform)
+
+Core Focus:
+  - Backend Architecture
+  - AI + RAG Systems
+  - Real-Time Applications
+
+Philosophy:
+  - "Understand deeply. Build intentionally."
 ```
 
 ---
 
-## ⚡ Strength Map
+## ⚡ TECH STACK
+
+### 🧠 Backend
+
+`Node.js` `Express` `WebSockets` `Redis` `BullMQ`
+
+### 🎨 Frontend
+
+`Next.js` `React` `Tailwind CSS` `Zustand`
+
+### 🗄️ Database
+
+`PostgreSQL` `MongoDB` `PGVector`
+
+### 🤖 AI
+
+`RAG Pipelines` `Embeddings` `LLMs`
+
+### ☁️ DevOps
+
+`Docker` `Azure` `NGINX` `CI/CD`
+
+---
+
+## 👾 GAME 03: DEBUG THE SYSTEM
+
+> Production is down. Choose wisely.
+
+```
+╔══════════════════════════════════════╗
+║        ⚠️ PRODUCTION ALERT           ║
+╠══════════════════════════════════════╣
+║ Issue: API latency 1200ms            ║
+║ Users dropping...                    ║
+║                                      ║
+║ Choose your action:                  ║
+║                                      ║
+║ [1] Add console.log()                ║
+║ [2] Add Redis caching               ║
+║ [3] Ignore                          ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+<details>
+<summary>✅ Correct Action</summary>
+
+Option 2 → Redis caching
+→ Latency reduced
+→ System stabilized 🚀
+
+</details>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+```
+🧠 350+ LeetCode Problems Solved
+⚡ 396 GitHub Contributions (2026)
+🔥 40-Day Coding Streak
+🏆 Hackathon Builder (6000+ participants)
+🎓 CGPA: 9.18 / 10
+```
+
+---
+
+## 🏗️ SYSTEM DESIGN MINDSET
+
+```
+USER NEED
+   ↓
+UNDERSTAND PAIN
+   ↓
+ARCHITECT SYSTEM
+   ↓
+BUILD LAYERS
+   ↓
+OPTIMIZE (Redis • Queues • Scaling)
+   ↓
+DEPLOY (Docker • CI/CD • Cloud)
+```
+
+---
+
+## 💻 INTERACTIVE CLI
+
+```
+> whoami
+Full-Stack Engineer
+
+> current_project
+Nova Bot Studio
+
+> skills --top
+AI + Backend Systems
+
+> mindset
+"I build like a user, not just a developer."
+```
+
+---
+
+## 👾 FINAL BOSS: PRODUCTION FAILURE
+
+```
+╔══════════════════════════════════════╗
+║        👾 FINAL BOSS                 ║
+╠══════════════════════════════════════╣
+║                                      ║
+║   🐛 Memory Leak                     ║
+║   ⚠️ Race Condition                  ║
+║   🐌 Slow Queries                   ║
+║                                      ║
+║   Choose your weapons:               ║
+║                                      ║
+║   [ Redis ] [ Logging ] [ Profiling ]║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+---
+
+## 📬 INITIATE CONNECTION
 
 <div align="center">
-
-| Domain | Tools & Technologies | Depth |
-|--------|----------------------|-------|
-| **Frontend** | Next.js · React · Tailwind CSS · ShadCN · Redux · Zustand | ████████████ Expert |
-| **Backend** | Node.js · Express · REST APIs · WebSockets · Socket.io | ████████████ Expert |
-| **Databases** | PostgreSQL · MongoDB · Redis · PGVector · SQL Server | ███████████░ Advanced |
-| **AI / LLM** | RAG Pipelines · Embeddings · Prompt Engineering | ██████████░░ Advanced |
-| **DevOps** | Docker · Azure · Nginx · CI/CD · GitHub Actions | █████████░░░ Proficient |
-| **Languages** | TypeScript · JavaScript · C# | ████████████ Expert |
-| **.NET / C#** | ASP.NET Core · MVC · RESTful APIs | ████████░░░░ Proficient |
-
-</div>
-
----
-
-## 🏆 Achievements & Milestones
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   🥇  350+ LeetCode Problems Solved                            │
-│       → Strong DSA foundation: arrays, graphs, DP, trees       │
-│                                                                 │
-│   🌍  Green Hack Bharat Hackathon 2026                         │
-│       → 6,000+ participants · Built BreathClean in 48 hours    │
-│       → Pollution-aware navigation using real-time AQI data    │
-│                                                                 │
-│   📈  396 GitHub Contributions in 2026                         │
-│       → 40-day streak · 57 commits on peak day                 │
-│                                                                 │
-│   🎓  CGPA 9.18 / 10.0                                        │
-│       → DAV Centenary College, Faridabad                       │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🏗️ System Design Thinking
-
-> *How I approach every build:*
-
-```
- USER NEED
-     │
-     ▼
- ┌───────────────────────────────────────────────────┐
- │  1. DESIGN as a user — feel the pain first        │
- │  2. ARCHITECT before coding — system diagrams     │
- │  3. LAYER by layer — Auth → Core → Real-time → AI │
- │  4. OPTIMIZE with data — Redis, caching, queues   │
- │  5. DEPLOY with confidence — Docker, CI/CD, Azure │
- └───────────────────────────────────────────────────┘
-     │
-     ▼
- PRODUCTION-READY SYSTEM
-```
-
-**Patterns I live by:**
-- 🔐 JWT + OAuth2 authentication with refresh token rotation
-- ⚡ Redis caching → 40% API latency reduction (proven on Nova Bot Studio)
-- 🧵 BullMQ background workers for async operations
-- 🌍 GeoJSON + 2dsphere indexing for spatial queries (BreathClean)
-- 🤖 RAG with vector embeddings for intelligent document Q&A
-- 🔄 WebSocket + Socket.io for 200+ concurrent real-time clients
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GURUDAS-DEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUDAS-DEV&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GURUDAS-DEV&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🎓 Education
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🏛️  DAV CENTENARY COLLEGE, FARIDABAD                       │
-│  📚  Bachelor of Computer Applications (BCA)               │
-│  📅  2024 – 2027                                            │
-│  🎯  CGPA: 9.18 / 10.0                                      │
-│  📍  Haryana, India                                         │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🌍 Human Stack
-
-<div align="center">
-
-| Language | Level |
-|----------|-------|
-| 🇬🇧 English | ██████████ Fluent |
-| 🇮🇳 Hindi | ██████████ Native |
-| 🇯🇵 Japanese | ████░░░░░░ Learning |
-
-</div>
-
----
-
-## 💡 Dev Philosophy
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   "I don't just want things to work —                   ║
-║    I want to understand WHY they work."                 ║
-║                                                          ║
-║   "I build systems AS A USER, not just as a dev."       ║
-║                                                          ║
-║   "Ship production-ready. Optimize with data."          ║
-║                                                          ║
-║   "350+ problems later — I don't fear hard bugs."       ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 📬 Let's Build Something
-
-<div align="center">
-
-> *Got an idea, a problem, or a system that needs to scale?*
-> **I'm one message away.**
-
-<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0a0a0a?style=for-the-badge)](https://portfolio-sand-seven-50.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/gurudas-bhardwaj-b900a5314/)
-[![GitHub](https://img.shields.io/badge/Follow-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/GURUDAS-DEV)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gurudaswork9811@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0a0a0a?style=for-the-badge\&logo=linkedin\&logoColor=0077B5)](https://www.linkedin.com/in/gurudas-bhardwaj-b900a5314/)
+[![GitHub](https://img.shields.io/badge/Follow-0a0a0a?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/GURUDAS-DEV)
 
 </div>
 
@@ -266,6 +246,11 @@ const gurudas = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=Built+with+intentionality+%E2%80%94+not+just+code.&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
+```
+> SYSTEM STATUS: ONLINE
+> READY TO BUILD
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Built%20with%20intentionality%20%E2%80%94%20not%20just%20code.&fontSize=14&fontColor=ffffff"/>
 
 </div>
