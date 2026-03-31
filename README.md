@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Gurudas%20Bhardwaj&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
@@ -17,7 +16,6 @@
 ---
 
 ### $ whoami
-
 ```yaml
 name       : Gurudas Bhardwaj
 role       : Full-Stack Engineer + AI Systems Builder
@@ -127,4 +125,3 @@ status     : Open to high-impact roles & collaborations
 *"The best engineers don't just write code — they build systems that think."*
 
 </div>
-```
