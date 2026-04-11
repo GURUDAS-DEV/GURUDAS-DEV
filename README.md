@@ -69,7 +69,7 @@ cgpa    : 9.18 / 10  |  BCA @ DAV Centenary College (2024–2027)
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GURUDAS-DEV&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats-five-orange.vercel.app/?user=GURUDAS-DEV&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=GURUDAS-DEV&theme=tokyonight" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUDAS-DEV&theme=tokyonight&area=true" width="100%" alt="Contribution Graph" />
 
