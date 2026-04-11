@@ -62,14 +62,15 @@ cgpa    : 9.18 / 10  |  BCA @ DAV Centenary College (2024–2027)
 ### 🏆 Highlights
 
 <!-- GitHub Stats -->
-<div align="center">
+🏆 Highlights
+<div align="center" gap="10px">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gurudas-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Gurudas's GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GURUDAS-DEV&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurudas-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GURUDAS-DEV&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurudas-dev&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-five-orange.vercel.app/?user=GURUDAS-DEV&theme=tokyonight" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gurudas-dev&theme=tokyonight&area=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUDAS-DEV&theme=tokyonight&area=true" width="100%" alt="Contribution Graph" />
 
 </div>
