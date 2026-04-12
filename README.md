@@ -23,7 +23,7 @@ role    : Full-Stack Engineer + AI Systems Builder
 focus   : AI SaaS · RAG Pipelines · Real-Time Systems · Cloud Deployment
 flagship: Nova Bot Studio — Multi-Channel Bot SaaS Platform
 stack   : Next.js · Node.js · PostgreSQL · Redis · Docker · Azure · LLMs
-cgpa    : 9.18 / 10  |  BCA @ DAV Centenary College (2024–2027)
+cgpa    : 9.67 / 10  |  BCA @ DAV Centenary College (2024–2027)
 ```
 
 ---
