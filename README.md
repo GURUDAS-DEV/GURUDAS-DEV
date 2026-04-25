@@ -8,7 +8,7 @@
 
 > *Building production-grade AI SaaS platforms — RAG pipelines, real-time systems, and scalable backends.*
 
-[![Portfolio](https://img.shields.io/badge/gurudes.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://gurudes.dev)
+[![Portfolio](https://img.shields.io/badge/gurudes.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://gurudes.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurudas-bhardwaj-b900a5314/)
 [![GitHub](https://img.shields.io/badge/GURUDAS--DEV-24243e?style=flat-square&logo=github&logoColor=white)](https://github.com/GURUDAS-DEV)
 [![LeetCode](https://img.shields.io/badge/LeetCode%20350+-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
