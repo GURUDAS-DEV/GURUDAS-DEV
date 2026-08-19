@@ -22,7 +22,7 @@
 role    : Full-Stack Engineer + AI Systems Builder
 focus   : AI SaaS · RAG Pipelines · Real-Time Systems · Cloud Deployment
 flagship: Nova Bot Studio — Multi-Channel Bot SaaS Platform
-stack   : Next.js · Node.js · PostgreSQL · Redis · Docker · Azure · LLMs
+stack   : Next.js · Node.js · PostgreSQL · Redis · Docker · AWS · LLMs
 cgpa    : 9.67 / 10  |  BCA @ DAV Centenary College (2024–2027)
 ```
 
@@ -40,7 +40,7 @@ cgpa    : 9.67 / 10  |  BCA @ DAV Centenary College (2024–2027)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0078D4?style=flat-square&logo=microsoftAWS&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio)
 ![RAG](https://img.shields.io/badge/RAG%20%2F%20LLMs-8B5CF6?style=flat-square)
